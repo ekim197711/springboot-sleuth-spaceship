@@ -1,0 +1,1 @@
+curl "localhost:8080/api/spaceship/flyaway/50"
